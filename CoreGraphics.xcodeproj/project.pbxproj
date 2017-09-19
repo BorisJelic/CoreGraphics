@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					A17F935D1F7137760075DAD8 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = RJV3GH26LW;
 						ProvisioningStyle = Automatic;
 					};
 					A17F93711F7137760075DAD8 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RJV3GH26LW;
 				INFOPLIST_FILE = CoreGraphics/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jastrebsolutions.CoreGraphics;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RJV3GH26LW;
 				INFOPLIST_FILE = CoreGraphics/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jastrebsolutions.CoreGraphics;
